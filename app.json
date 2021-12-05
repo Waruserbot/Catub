@@ -1,13 +1,13 @@
 {
   "name": "Waruserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Jisan ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "description": "A simple Telegram userbot based on Telethon . Maintained by Abhishek ",
+  "logo": "https://telegra.ph/file/0bfcbfcb2ae247117a77b.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/waruserbot/catuserbot/",
+  "repository": "https://github.com/xAbhish3k/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
