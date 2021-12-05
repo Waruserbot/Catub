@@ -39,8 +39,13 @@ _set_bot () {
     cd $MAFIAPATH
     echo "    Starting WarBot    "
     echo "
-                          ok
-
+     
+                          ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
+                          ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔╝
+                          ║║║║║╠╣║╔╝╔║║╣╠╣║╔╗║║║║║
+                          ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝                     ok
+    "
+    
     python3 ./setup/updater.py ./requirements.txt requirements.txt
     python3 -m userbot
 }
