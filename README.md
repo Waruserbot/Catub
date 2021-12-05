@@ -8,5 +8,5 @@ Main source is here [main source](https://github.com/waruserbot/catuserbot) fork
 [![Deploy To Heroku]()
 
 ## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+
+
